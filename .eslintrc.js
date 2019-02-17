@@ -1,8 +1,5 @@
 module.exports = {
   root: true,
-  globals: {
-    CronUI: true
-  },
   env: {
     node: true
   },
